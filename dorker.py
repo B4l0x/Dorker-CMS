@@ -8,7 +8,7 @@ import sys
 import argparse as arg
 
 #Banner
-print(F''' 
+print(''' 
     ____             __      _       __
    / __ \_________  / /_____| |     / /___ __   _____ 
   / /_/ / ___/ __ \/ __/ __ \ | /| / / __ `/ | / / _ \
